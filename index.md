@@ -1,7 +1,7 @@
 # ABOUT ME
 
 - BUPT· School of Digital Media and Design Art
-- UI|UX designer
+- UI/UX designer
 
 
 # MY PROJECTS
