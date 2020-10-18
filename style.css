@@ -1,4 +1,15 @@
 h1{
+    font-family:Arial;
     color:white;
     font-size:120px;
+}
+h3{
+    font-family:Helvetica;
+    color:white;
+    font-size:36px;
+}
+p{
+    font-family:Helvetica;
+    color:#BADFE4;
+    font-size:16px;
 }
